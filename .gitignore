@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+videos.json
+.env
+*.save
